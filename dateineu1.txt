@@ -1,3 +1,4 @@
 Datei wird geändert in  git-Aufgabe
 Neue Änderung in Repository1
 Konflikt-Zeile
+Neue Änderung in git-Aufgabe
